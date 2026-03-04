@@ -1,0 +1,53 @@
+{
+  "sitePlan": "./siteplan.jpg",
+  "hotspots": [
+    {
+      "id": "1msni85c0",
+      "name": "Ext1",
+      "x": 86.91099476439791,
+      "y": 49.69545825140281,
+      "imageData": "./Ext1.jpg",
+      "type": "image",
+      "links": [
+        {
+          "targetId": "a8vuxh1nu",
+          "pitch": -2.1205313015259186,
+          "yaw": 9.908043518788613
+        }
+      ]
+    },
+    {
+      "id": "a8vuxh1nu",
+      "name": "Ext2",
+      "x": 82.02443280977313,
+      "y": 58.28977027480696,
+      "imageData": "./Ext2.jpg",
+      "type": "image",
+      "links": [
+        {
+          "targetId": "1msni85c0",
+          "pitch": -1.4247983483250337,
+          "yaw": 85.31003822708752
+        }
+      ]
+    },
+    {
+      "id": "061y3gr64",
+      "name": "Lounge",
+      "x": 35.42757417102967,
+      "y": 40.18032708263392,
+      "imageData": "./Lounge.png",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "vi2d9k182",
+      "name": "Restaurant",
+      "x": 43.63001745200698,
+      "y": 58.28977027480696,
+      "imageData": "./Restaurant.png",
+      "type": "image",
+      "links": []
+    }
+  ]
+}
